@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Countryprofile</string>
+    <string name="Bangladesh">Bangladesh</string>
+    <string name="Norway">Norway</string>
+    <string name="italy">Italy</string>
+
+    <string name="bdtext">A virtual guide to Bangladesh, an independent country since 1971, named officially People is Republic of Bangladesh.\n
+        The country is situated in southern Asia in the Ganges River (Padma) delta on the Bay of Bengal.\n Bangladesh is bordered by India in west, north and east and has a short border with Myanmar (Burma) in south east.\n\n
+        The state occupies an area of 143,998 km. compared it is slightly larger than Greece slightly smaller than the U.S. state of Iowa.\n
+        It is one of the world is most densely populated countries.\n Bangladesh has a population of more than 164 million people (in 2017). \nThe majority of its population are followers of Islam (about 88%).\n Capital and largest city is Dhaka.\n Spoken language is Bangla .
+    </string>
+
+<string name="italy_text">Destination Italy, a virtual guide to "Bella Italia" - beautiful Italy, how many Italians love to call their country.\n Italy is located in southern Europe on the Apennine Peninsula. \nIts distinct shape, resembling a kicking boot, makes it easy to recognize it on maps or even from space.\n
+        The peninsula is bordered by the Adriatic Sea in east, the Sea of Sicily in south, the Ionian Sea in southeast, the Ligurian Sea and the Tyrrhenian Sea in west, all of them are parts of the Mediterranean Sea.\n\n
+        Italy has international borders with Austria, France, the Holy See (Vatican City), San Marino, Slovenia, and Switzerland.\n It shares maritime borders with Albania, Algeria, Croatia, Greece, Libya, Malta, Montenegro, Spain, and Tunisia.\n\n
+        Two of the largest Mediterranean islands belong to Italy. Sardinia in west and Sicily in south.\n
+        The country covers an area of 301,318 km this is about 80% the size of Japan or slightly larger than the U.S. state of Arizona.\n\n
+        Italy has a population of more than 60 million people (in 2016), capital and largest city is Rome (Italian: Roma).\n Major cities are Florence, Milan, Naples, and Venice.\n Spoken language is Italian.
+
+</string>
+
+
+<string name="norway_text">A virtual guide to Norway, one of the Scandinavian kingdoms. The country is situated in Northern Europe, the western portion of the Scandinavian Peninsula, with coastlines at the North Sea and the North Atlantic Ocean.\n It is bordered by Sweden, Finland, and Russia and it shares maritime borders with the United Kingdom, Iceland, and Denmark.\n\n
+        Norway is landscape offers rocky wilderness with mountains and glaciers and its coast is dented by coastal fjords, long, narrow inlets with steep cliffs, some of the fjords reach deep into the interior of the country.\n
+        Norway is mainland covers an area of 323,802 km, making it somewhat smaller than Germany, or slightly larger than the US state of New Mexico.\n\n
+        Just 5.2 million people live in this sparsely populated country, most of Norway is population is concentrated in the southern portion of the country.\n Capital and largest city is Oslo.\n Spoken language is Norwegian, a North Germanic language.
+</string>
+</resources>
